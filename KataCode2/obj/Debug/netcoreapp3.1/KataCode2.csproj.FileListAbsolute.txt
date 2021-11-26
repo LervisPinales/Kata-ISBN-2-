@@ -1,0 +1,13 @@
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\bin\Debug\netcoreapp3.1\KataCode2.exe
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\bin\Debug\netcoreapp3.1\KataCode2.deps.json
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\bin\Debug\netcoreapp3.1\KataCode2.runtimeconfig.json
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\bin\Debug\netcoreapp3.1\KataCode2.runtimeconfig.dev.json
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\bin\Debug\netcoreapp3.1\KataCode2.dll
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\bin\Debug\netcoreapp3.1\KataCode2.pdb
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\obj\Debug\netcoreapp3.1\KataCode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\obj\Debug\netcoreapp3.1\KataCode2.AssemblyInfoInputs.cache
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\obj\Debug\netcoreapp3.1\KataCode2.AssemblyInfo.cs
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\obj\Debug\netcoreapp3.1\KataCode2.csproj.CoreCompileInputs.cache
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\obj\Debug\netcoreapp3.1\KataCode2.dll
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\obj\Debug\netcoreapp3.1\KataCode2.pdb
+C:\Users\lervi\source\repos\KataISBN2\KataCode2\obj\Debug\netcoreapp3.1\KataCode2.genruntimeconfig.cache

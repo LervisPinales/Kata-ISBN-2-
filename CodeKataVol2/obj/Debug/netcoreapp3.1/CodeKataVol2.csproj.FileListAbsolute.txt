@@ -1,0 +1,5 @@
+C:\Users\lervi\source\repos\KataISBN2\CodeKataVol2\obj\Debug\netcoreapp3.1\CodeKataVol2.csproj.AssemblyReference.cache
+C:\Users\lervi\source\repos\KataISBN2\CodeKataVol2\obj\Debug\netcoreapp3.1\CodeKataVol2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lervi\source\repos\KataISBN2\CodeKataVol2\obj\Debug\netcoreapp3.1\CodeKataVol2.AssemblyInfoInputs.cache
+C:\Users\lervi\source\repos\KataISBN2\CodeKataVol2\obj\Debug\netcoreapp3.1\CodeKataVol2.AssemblyInfo.cs
+C:\Users\lervi\source\repos\KataISBN2\CodeKataVol2\obj\Debug\netcoreapp3.1\CodeKataVol2.csproj.CoreCompileInputs.cache
